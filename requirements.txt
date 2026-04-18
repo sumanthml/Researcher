@@ -1,0 +1,11 @@
+python-dotenv
+groq
+tavily-python
+google-generativeai
+newsapi-python
+duckduckgo-search
+
+
+pinecone       
+streamlit
+sentence-transformers
